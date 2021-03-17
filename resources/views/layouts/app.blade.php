@@ -44,7 +44,8 @@
 
         <h4>The writer needs a job</h4>
         <h4>le.legioner@gmail.com</h4>
-        <h4><a href="https://www.linkedin.com/in/legioneroff/" target="_blank">https://www.linkedin.com/in/legioneroff/</a></h4>
+        <h4><a href="https://www.linkedin.com/in/legioneroff/" style="color: white" target="_blank">https://www.linkedin.com/in/legioneroff/</a></h4>
+        <h6><a href="https://github.com/chicagoist/laravel8crud" style="color: white" target="_blank">https://github.com/chicagoist/laravel8crud</a></h4>
 
     </div>
 </body>
